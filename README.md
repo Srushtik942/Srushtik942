@@ -25,6 +25,7 @@
 - Vector Stores • Embeddings • AI Agents
 
 ---
+
 ## 📌 What I'm Working On
 - 🚀 Deploying microservice-based applications on AWS  
 - 🔐 Building secure backend systems with **JWT + OAuth**
@@ -33,9 +34,11 @@
 - 🐳 Containerizing services with Docker & exploring CI/CD pipelines
 
 ---
+
 ## 📫 Connect With Me
 💼 Open to collaboration in **Backend**, **AI/LLM** & **DevOps** projects!  
 📍 Always learning, always building.
+
 ---
 
 If you like my work, feel free to ⭐ my repositories or say hi! 😊
