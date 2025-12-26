@@ -1,12 +1,10 @@
 # 💫 About Me:
 # 👋 Hey there, I'm Srushti!
-
 🎯 **Backend-Focused Full Stack Developer & AI Enthusiast**  
 💡 Passionate about building scalable applications, backend architectures & AI-powered solutions.  
 ✨ I love building **scalable and efficient applications** while continuously exploring new technologies.
 
 ---
-
 ## 🚀 Tech Stack
 
 **🖥️ Backend**
@@ -27,7 +25,6 @@
 - Vector Stores • Embeddings • AI Agents
 
 ---
-
 ## 📌 What I'm Working On
 - 🚀 Deploying microservice-based applications on AWS  
 - 🔐 Building secure backend systems with **JWT + OAuth**
@@ -36,16 +33,9 @@
 - 🐳 Containerizing services with Docker & exploring CI/CD pipelines
 
 ---
-
 ## 📫 Connect With Me
 💼 Open to collaboration in **Backend**, **AI/LLM** & **DevOps** projects!  
 📍 Always learning, always building.
-
----
-
-### ⭐ Fun Fact
-I love combining backend engineering with AI to build real-world, impactful solutions! 🚀
-
 ---
 
 If you like my work, feel free to ⭐ my repositories or say hi! 😊
