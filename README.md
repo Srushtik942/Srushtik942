@@ -1,6 +1,54 @@
 # 💫 About Me:
-Hi there! 👋 I'm Srushti, a passionate Full Stack Developer & AI Enthusiast. I specialize in building scalable applications, backend architectures, and cloud-based solutions.I love building scalable and efficient applications while continuously exploring new technologies.<br><br>💻 Tech Stack:<br>⚡Backend: Express.js, Node.js, JWT Authentication, Microservices, Supabase, DockerStack<br>🎨Frontend: JavaScript, React.js, Firebase, Tailwind CSS<br>☁️DevOps & Cloud: AWS (currently exploring), CI/CD Pipelines<br>🔹AI & ML: Currently exploring Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs)<br><br>🎯 What I'm Currently Working On:<br>🚀 Learning AWS & DevOps for cloud deployment<br>📌 Enhancing microservices architecture for better scalability<br>⚡ Learning efficient JWT-based authentication systems<br>
-🤖 Exploring RAG & LLM integration for AI-powered applications<br><br>📫 Let's Connect!<br>I'm always open to collaboration on backend development, DevOps and AI/ML projects!!<br>
+# 👋 Hey there, I'm Srushti!
+
+🎯 **Backend-Focused Full Stack Developer & AI Enthusiast**  
+💡 Passionate about building scalable applications, backend architectures & AI-powered solutions.  
+✨ I love building **scalable and efficient applications** while continuously exploring new technologies.
+
+---
+
+## 🚀 Tech Stack
+
+**🖥️ Backend**
+- Node.js • Express.js • FastAPI (Python)
+- MongoDB • Supabase • Firebase
+- JWT & OAuth Authentication • Microservices
+- Docker • REST APIs
+
+**🎨 Frontend**
+- JavaScript • React.js • Tailwind CSS • Material UI
+
+**☁️ DevOps & Cloud**
+- AWS (Learning & exploring) • CI/CD Pipelines • Docker
+
+**🤖 AI / ML Focus**
+- LLMs (Large Language Models)
+- RAG (Retrieval-Augmented Generation)
+- Vector Stores • Embeddings • AI Agents
+
+---
+
+## 📌 What I'm Working On
+- 🚀 Deploying microservice-based applications on AWS  
+- 🔐 Building secure backend systems with **JWT + OAuth**
+- ⚡ APIs using **Express.js & FastAPI**
+- 🤖 Integrating **LLMs & RAG** for AI-powered features
+- 🐳 Containerizing services with Docker & exploring CI/CD pipelines
+
+---
+
+## 📫 Connect With Me
+💼 Open to collaboration in **Backend**, **AI/LLM** & **DevOps** projects!  
+📍 Always learning, always building.
+
+---
+
+### ⭐ Fun Fact
+I love combining backend engineering with AI to build real-world, impactful solutions! 🚀
+
+---
+
+If you like my work, feel free to ⭐ my repositories or say hi! 😊
 
 
 ## 🌐 Socials:
