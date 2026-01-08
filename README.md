@@ -22,7 +22,7 @@
 **🤖 AI / ML Focus**
 - LLMs (Large Language Models)
 - RAG (Retrieval-Augmented Generation)
-- Vector Stores • Embeddings • AI Agents
+- Vector Database • Embeddings • AI Agents • Langchain
 
 ---
 
