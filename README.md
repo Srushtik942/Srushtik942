@@ -14,7 +14,7 @@
 - Docker • REST APIs
 
 **🎨 Frontend**
-- JavaScript • React.js • Tailwind CSS • Material UI
+- JavaScript • React.js • Redux • Context API • Tailwind CSS • Material UI • Chakra UI
 
 **☁️ DevOps & Cloud**
 - AWS (Learning & exploring) • CI/CD Pipelines • Docker
