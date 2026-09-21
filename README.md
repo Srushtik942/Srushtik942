@@ -1,5 +1,6 @@
 # 💫 About Me:
 # 👋 Hey there, I'm Srushti!
+![Profile Views](https://komarev.com)
 🎯 **Backend-Focused Full Stack Developer & AI Enthusiast**  
 💡 Passionate about building scalable applications, backend architectures & AI-powered solutions.  
 ✨ I love building **scalable and efficient applications** while continuously exploring new technologies.
